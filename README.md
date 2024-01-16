@@ -134,3 +134,6 @@ But I am currently using a program called Subtitle Edit
 Located Here-----> https://github.com/SubtitleEdit/subtitleedit/releases
 ##
 This is the YouTube Tutorial I am followed for setting up Subtitle Edit. ---->  https://www.youtube.com/watch?v=Lo2n2NAVrDY
+##
+IMPORTANT: 
+The srt files MUST have the exact filename as the corresponding video file.
