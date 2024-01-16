@@ -1,8 +1,8 @@
 # Subtitle_SRT_Creation
 ##
 An effective method for language learning is consuming content with same language subtitles.
-##
 Unfortunately, subtitles seem to be lacking for content that is not in English. I hope we can change that together.
+##
 ##
 INTRODUCTION:
 ##
@@ -10,7 +10,6 @@ I was enticed by the idea of Lingopie,
 but the subscription program seems to
 be expensive and rely on you being subscribed
 to many other online paid subscription services.
-##
 ##
 ##
 MORE INFORMATION:
