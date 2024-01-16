@@ -9,9 +9,7 @@ but the subscription program seems to
 be expensive and rely on you being subscribed
 to many other online paid subscription services.
 ##
-##
-MORE INFORMATION:
-##
+MORE INFORMATION: 
 A lot of people already know that there
 are websites where you can download srt
 (subtitle) files and bond them to the
@@ -24,10 +22,7 @@ language srt files for media, language
 learning content would be cheaper and
 more available to the masses.
 ##
-##
-##
-OTHER USE CASES FOR SRT FILES:
-##
+OTHER USE CASES FOR SRT FILES: 
 SRT files contain the closed caption
 data of audio and video files. SRT
 files can be bonded, or burned into
@@ -54,10 +49,7 @@ possibilities and all the ways
 SRT files can be used for language
 learning.
 ##
-##
-##
-PROJECT POLICY AND WORKFLOW:
-##
+PROJECT POLICY AND WORKFLOW: 
 We wil not push video files to the Github
 repository unless it is explicitly public
 domain and even then, it will be to my best
