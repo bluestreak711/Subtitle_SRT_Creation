@@ -132,3 +132,5 @@ Like so-----> https://riverside.fm/blog/how-to-create-an-srt-file#anchor2
 ##
 But I am currently using a program called Subtitle Edit 
 Located Here-----> https://github.com/SubtitleEdit/subtitleedit/releases
+##
+This is the YouTube Tutorial I am followed for setting up Subtitle Edit. ---->  https://www.youtube.com/watch?v=Lo2n2NAVrDY
