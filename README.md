@@ -23,7 +23,7 @@ learning content would be cheaper and
 more available to the masses.
 ##
 OTHER USE CASES FOR SRT FILES: 
-SRT files contain the closed caption
+Srt files contain the closed caption
 data of audio and video files. SRT
 files can be bonded, or burned into
 corresponding video files, be used
