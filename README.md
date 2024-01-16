@@ -88,10 +88,7 @@ to one, or more, of the many websites that
 host srt files, so it can be more widely
 available to the masses.
 ##
-##
-##
 LIST OF SOME SRT HOSTING SITES:
-##
 ##
 Subscene
 ##
@@ -130,10 +127,8 @@ List was pulled from...
 ##
 TOOLS:
 ##
-SRT Files can be created manually
-##
+Srt Files can be created manually 
 Like so-----> https://riverside.fm/blog/how-to-create-an-srt-file#anchor2
 ##
-But I am currently using a program called Subtitle Edit
-##
+But I am currently using a program called Subtitle Edit 
 Located Here-----> https://github.com/SubtitleEdit/subtitleedit/releases
