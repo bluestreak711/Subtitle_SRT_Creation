@@ -103,22 +103,38 @@ available to the masses.
 ##
 LIST OF SOME SRT HOSTING SITES:
 ##
+##
 Subscene
+##
 Moviesubtitles.org
+##
 OpenSubtitles
+##
 TVsubs
+##
 Subtitle Seeker
+##
 Downsub
+##
 Movie Subtitles
+##
 English Subtitles for DivX Movies
+##
 YIFY Subtitles
+##
 Addic7ed
+##
 English Subtitles
+##
 Podnapisi
+##
 Subtitles.hr
+##
 Movie Subtitles SRT
+##
 Subdl
+##
 SubtitlesHub
 ##
 List was pulled from...
-https://www.movavi.com/learning-portal/best-subtitle-download-sites.html
+#https://www.movavi.com/learning-portal/best-subtitle-download-sites.html
