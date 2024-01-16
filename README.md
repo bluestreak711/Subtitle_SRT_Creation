@@ -137,4 +137,14 @@ Subdl
 SubtitlesHub
 ##
 List was pulled from...
-#https://www.movavi.com/learning-portal/best-subtitle-download-sites.html
+## https://www.movavi.com/learning-portal/best-subtitle-download-sites.html
+##
+TOOLS:
+##
+SRT Files can be created manually
+##
+Like so-----> https://riverside.fm/blog/how-to-create-an-srt-file#anchor2
+##
+But I am currently using a program called Subtitle Edit
+##
+Located Here-----> https://github.com/SubtitleEdit/subtitleedit/releases
