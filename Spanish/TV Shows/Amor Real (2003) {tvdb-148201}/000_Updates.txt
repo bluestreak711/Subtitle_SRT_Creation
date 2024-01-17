@@ -5,4 +5,6 @@ No download instructions for the content will be posted.
 Captitulos 1 - 95 are being taken from the following playlist. https://www.youtube.com/playlist?list=PL0PMOjmuFSQFWwSmW-BI9U9hIy8-FMaxK
 
 Amor Real cap..58 was renamed to Amor Real cap.58. The original mistakenly had an extra dot in the title which caused the files not to be in order.
-I added an extra 0 to Amor Real cap.1 through Amor Real cap.9 to make it Amor Real cap.01 through Amor Real cap.09 for better ordering. 
+I added an extra 0 to Amor Real cap.1 through Amor Real cap.9 to make it Amor Real cap.01 through Amor Real cap.09 for better ordering.
+
+So far, only the srt files for chapters 1 - 3 are uploaded.
