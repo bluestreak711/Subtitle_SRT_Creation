@@ -3,6 +3,8 @@ Chapter 36 opens up with somebody playing a guitar and singing.
 The subtitles could not be generated for this portion and periods were put in the place of text.
 The subtitles for the opening portion of this chapter needs to be added in manually by a native speaker.
 
+Srt files for chapters 04 - 39 were uploaded.
+
 
 2024-01-16
 A new entry for Amor Real was created. 
@@ -13,4 +15,4 @@ Captitulos 1 - 95 are being taken from the following playlist. https://www.youtu
 Amor Real cap..58 was renamed to Amor Real cap.58. The original mistakenly had an extra dot in the title which caused the files not to be in order.
 I added an extra 0 to Amor Real cap.1 through Amor Real cap.9 to make it Amor Real cap.01 through Amor Real cap.09 for better ordering.
 
-So far, only the srt files for chapters 1 - 3 are uploaded.
+So far, only the srt files for chapters 01 - 03 are uploaded.
