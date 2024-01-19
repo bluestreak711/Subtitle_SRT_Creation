@@ -1,3 +1,7 @@
+2024-01-19
+Srt files for chapters 15 and 16 were updated. Amor Real cap.15.srt had another chapter's srt saved over it by accident.
+I regenerated the chapter's subtitles and corrected a few mistakes. 
+
 2024-01-17
 Chapter 36 opens up with somebody playing a guitar and singing.
 The subtitles could not be generated for this portion and periods were put in the place of text.
