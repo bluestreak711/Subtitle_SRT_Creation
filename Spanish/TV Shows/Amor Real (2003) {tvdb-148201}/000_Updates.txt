@@ -1,4 +1,7 @@
 2024-01-19
+corrections were made to Amor Real cap.16.srt
+
+2024-01-19
 Srt files for chapters 15 and 16 were updated. Amor Real cap.15.srt had another chapter's srt saved over it by accident.
 I regenerated the chapter's subtitles and corrected a few mistakes. 
 
