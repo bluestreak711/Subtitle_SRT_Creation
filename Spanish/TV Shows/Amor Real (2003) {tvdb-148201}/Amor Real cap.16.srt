@@ -1468,216 +1468,215 @@ Los preparativos para la boda, el viaje.
 ¿Se trata de dinero?
 
 344
+00:17:58,200 --> 00:18:00,160
+¿Por qué no me lo dijiste?
+
+345
 00:18:00,240 --> 00:18:02,060
 Lo que es mío es tuyo y...
 
-345
+346
 00:18:03,160 --> 00:18:04,240
 Y tú lo sabes.
 
-346
+347
 00:18:05,960 --> 00:18:07,440
 Ay, cuánto necesitas.
 
-347
+348
 00:18:10,300 --> 00:18:15,220
 Ven, ven.
 
-348
+349
 00:18:15,240 --> 00:18:16,320
 Yo quiero enseñarte algo.
 
-349
+350
 00:18:16,500 --> 00:18:17,080
 No, ¿qué cosa?
 
-350
+351
 00:18:17,220 --> 00:18:17,400
 Sí.
 
-351
+352
 00:18:17,820 --> 00:18:18,920
 No, no preguntes.
 
-352
+353
 00:18:18,921 --> 00:18:19,340
 Ven conmigo.
 
-353
+354
 00:18:19,760 --> 00:18:20,760
 Ven.
 
-354
+355
 00:18:20,880 --> 00:18:21,860
 Humberto, confía en mí.
 
-355
+356
 00:18:21,900 --> 00:18:22,080
 Ven.
 
-356
+357
 00:18:22,081 --> 00:18:23,760
 Es una sorpresa.
 
-357
+358
 00:18:28,380 --> 00:18:32,320
 Me he dado cuenta que te cuesta
 mucho trabajo hablar de tus dificultades.
 
-358
+359
 00:18:32,600 --> 00:18:35,000
 Y cómo no quiero que tengas pena conmigo.
 
-359
+360
 00:18:35,320 --> 00:18:36,320
 Toma.
 
-360
+361
 00:18:36,620 --> 00:18:37,620
 Toma.
 
-361
+362
 00:18:38,460 --> 00:18:39,840
 Con la llave grande.
 
-362
+363
 00:18:40,185 --> 00:18:41,185
 Abre este baúl.
 
-363
+364
 00:18:44,140 --> 00:18:45,140
 Ábrelo.
 
-364
+365
 00:18:54,720 --> 00:18:55,820
 Mueve la brazada.
 
-365
+366
 00:18:59,760 --> 00:19:03,120
 Ahora, con la llave
 chiquita, abre ese cofre.
 
-366
+367
 00:19:33,060 --> 00:19:36,160
 Desde este momento, quiero
 que esas llaves las guardes tú.
 
-367
+368
 00:19:36,520 --> 00:19:38,660
 Para que cuando haga falta, vengas aquí.
 
-368
+369
 00:19:38,940 --> 00:19:41,140
 Lo que quieras, sin necesidad de pedírmelo.
 
-369
+370
 00:19:52,610 --> 00:19:54,590
 Gracias por su hospitalidad, señora.
 
-370
+371
 00:19:54,990 --> 00:19:59,210
 Y esperamos tener el honor de contar con
 su visita de vez en cuando en el hospital.
 
-371
+372
 00:20:00,770 --> 00:20:01,770
 Sí, claro.
 
-372
+373
 00:20:01,870 --> 00:20:02,870
 Será un placer.
 
-373
+374
 00:20:03,770 --> 00:20:05,250
 Acomódense por lo pronto en su casa.
 
-374
+375
 00:20:05,310 --> 00:20:06,310
 Mañana paso horas.
 
-375
+376
 00:20:07,290 --> 00:20:08,010
 Señor Manuel.
 
-376
+377
 00:20:08,190 --> 00:20:09,190
 Un placer.
 
-377
+378
 00:20:09,270 --> 00:20:09,790
 Señora.
 
-378
+379
 00:20:09,870 --> 00:20:10,870
 A sus pies.
 
-379
+380
 00:20:30,930 --> 00:20:31,930
 Matilde, espera.
 
-380
+381
 00:20:32,810 --> 00:20:33,810
 ¡Matilde!
 
-381
+382
 00:20:38,300 --> 00:20:42,020
 Quiero presentarte al señor Felipe
 Santa María, el nuevo administrador.
 
-382
+383
 00:20:42,280 --> 00:20:43,280
 Por favor.
 
-383
+384
 00:20:43,600 --> 00:20:44,600
 Mi esposa.
 
-384
+385
 00:20:46,420 --> 00:20:47,220
 Encantado, señora.
 
-385
+386
 00:20:47,360 --> 00:20:48,360
 Gracias.
 
-386
+387
 00:20:50,340 --> 00:20:52,320
 Fuimos al pueblo a comprar algunas cosas.
 
-387
+388
 00:20:52,520 --> 00:20:53,460
 Sí, Antonio me lo dijo.
 
-388
+389
 00:20:53,540 --> 00:20:58,360
 Si usted me lo permite, me gustaría mudarme
 de ropa y después me pondré a sus órdenes.
 
-389
+390
 00:20:58,720 --> 00:21:00,260
 De acuerdo, lo espero en mi despacho.
 
-390
+391
 00:21:02,220 --> 00:21:03,220
 Fue un placer.
 
-391
+392
 00:21:04,520 --> 00:21:04,960
 Señora.
 
-392
+393
 00:21:05,500 --> 00:21:06,500
 Con permiso.
 
-393
-00:21:09,380 --> 00:21:19,426
-No soporto que le
-hable así, con esa voz de
-
 394
-00:21:19,438 --> 00:21:29,730
-mando, como si fuera
-una más de sus criadas.
+00:21:24,860 --> 00:21:30,305
+No soporto que le hable así, con esa voz de
+mando, como si fuera una más de sus criadas.
 
 395
 00:21:30,330 --> 00:21:32,490
@@ -2928,11 +2927,11 @@ A la casa de sus padres.
 
 681
 00:37:16,130 --> 00:37:17,130
-¿Quién le dijo eso? Matilde.
+¿Quién le dijo eso?
 
 682
 00:37:20,560 --> 00:37:21,560
-
+Matilde.
 
 683
 00:37:23,540 --> 00:37:24,540
