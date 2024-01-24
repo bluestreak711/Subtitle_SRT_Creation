@@ -1620,1393 +1620,1397 @@ se habrá dado cuenta.
 No, no te habrías atrevido.
 
 384
-00:20:45,850 --> 00:20:48,230
-Matilde, no es justo lo que nos ha pasado.
+00:20:43,825 --> 00:20:45,825
+Matilde,
 
 385
+00:20:45,850 --> 00:20:48,230
+no es justo lo que nos ha pasado.
+
+386
 00:20:49,850 --> 00:20:50,850
 Ya lo sé.
 
-386
+387
 00:20:51,930 --> 00:20:56,190
 Recuerda todo lo que hablamos, nuestros
 sueños, nuestros planes para el futuro.
 
-387
+388
 00:20:58,490 --> 00:21:00,450
 Muchas veces me dijiste que te morirías.
 
-388
+389
 00:21:03,010 --> 00:21:05,310
 Por favor, me estás atormentando.
 
-389
+390
 00:21:06,130 --> 00:21:09,330
 Te entiendo, pero lo
 que quieres es imposible.
 
-390
+391
 00:21:09,350 --> 00:21:10,370
 Te entiendo.
 
-391
+392
 00:21:10,750 --> 00:21:12,090
 Tenga confianza, señora.
 
-392
+393
 00:21:13,170 --> 00:21:15,010
 Su esposo se va a reponer.
 
-393
+394
 00:21:15,230 --> 00:21:16,610
 Ay, sí, doña Matilde.
 
-394
+395
 00:21:16,830 --> 00:21:20,910
 Dios es grande y no va a permitir
 que nada malo le pase al señor.
 
-395
+396
 00:21:21,170 --> 00:21:23,070
 Sí, sí, sí, muchas gracias.
 
-396
+397
 00:21:23,110 --> 00:21:24,110
 Con permiso.
 
-397
+398
 00:21:32,240 --> 00:21:34,320
 No sabes lo que acabo de ver.
 
-398
+399
 00:21:35,320 --> 00:21:37,932
 Al administrador y
 a la señora Matilde
 
-399
+400
 00:21:37,944 --> 00:21:41,120
 agarraditos de la mano
 y hablando en voz baja.
 
-400
-00:21:41,340 --> 00:21:41,860
-¿Dónde? Aquí abajo.
-
 401
-00:21:42,100 --> 00:21:43,100
-
+00:21:41,340 --> 00:21:41,860
+¿Dónde?
 
 402
+00:21:42,100 --> 00:21:43,100
+Aquí abajo.
+
+403
 00:21:43,540 --> 00:21:46,527
 Cuando él le vio, enseguida
 se puso tieso y le dijo
 
-403
+404
 00:21:46,539 --> 00:21:49,480
 que no se preocupara,
 que el señor se iba a curar.
 
-404
+405
 00:21:50,240 --> 00:21:52,627
 A lo mejor cree que sí está
 preocupada, porque como
 
-405
+406
 00:21:52,639 --> 00:21:55,180
 es una hipócrita que le anda
 llorando a todo el mundo.
 
-406
+407
 00:21:55,460 --> 00:22:00,400
 No, para mí que estaban hablando de otra
 cosa, porque ella también se puso nerviosa.
 
-407
+408
 00:22:01,720 --> 00:22:04,970
 Además, ¿cuándo se ha
 visto que un empleado le agarre
 
-408
+409
 00:22:04,982 --> 00:22:08,120
 la mano a la esposa del
 patrón con tanta confianza?
 
-409
+410
 00:22:08,121 --> 00:22:14,360
 Y luego, no creas que me olvidé esa
 vez que él se fue casi detrás de ella.
 
-410
+411
 00:22:14,460 --> 00:22:19,000
 Y a poco rato, la señora
 regresó con los ojos hinchados.
 
-411
+412
 00:22:21,260 --> 00:22:22,900
 ¿Quién pudo hacerla llorar?
 
-412
+413
 00:22:23,420 --> 00:22:27,080
 Don Manuel no estaba
 y su tía aún no llegaba.
 
-413
+414
 00:22:28,360 --> 00:22:30,140
 ¿Crees que fue el administrador?
 
-414
+415
 00:22:32,040 --> 00:22:33,180
 ¿Pero por qué? No tengo idea.
 
-415
+416
 00:22:33,920 --> 00:22:35,140
 
 
-416
+417
 00:22:36,360 --> 00:22:37,960
 ¿Pero de qué entres?
 
-417
+418
 00:22:37,961 --> 00:22:39,320
 De esos dos hay algo.
 
-418
+419
 00:22:40,080 --> 00:22:42,360
 No lo dudo ni tantito.
 
-419
+420
 00:22:55,800 --> 00:22:58,680
 ¿Pero quién le contó a esa
 muchacha lo de Adolfo Solís?
 
-420
+421
 00:22:58,820 --> 00:23:00,220
 ¿Quién va a ser Manuel?
 
-421
+422
 00:23:02,960 --> 00:23:04,360
 Ay, no, Mati, no creo.
 
-422
+423
 00:23:04,680 --> 00:23:05,680
 ¿Quién otro, tía?
 
-423
+424
 00:23:06,340 --> 00:23:08,520
 Nunca imaginé que fuera tan indiscreto.
 
-424
+425
 00:23:09,360 --> 00:23:11,200
 ¿Y por qué le tiene tanta confianza?
 
-425
+426
 00:23:13,040 --> 00:23:15,760
 Porque es su querida.
 
-426
+427
 00:23:16,480 --> 00:23:17,480
 ¿Qué qué? No puede ser.
 
-427
+428
 00:23:18,080 --> 00:23:19,360
 Es la verdad.
 
-428
+429
 00:23:19,420 --> 00:23:19,980
 
 
-429
+430
 00:23:20,340 --> 00:23:23,860
 Ella es la que manda en la casa, la
 que toma decisiones cuando él no está.
 
-430
+431
 00:23:24,040 --> 00:23:30,800
 Además, yo misma los encontré abrazados y
 me han contado que los han visto besándose.
 
-431
+432
 00:23:31,340 --> 00:23:32,440
 ¿Quién te dijo eso? Ay, Rosario.
 
-432
+433
 00:23:34,960 --> 00:23:35,960
 
 
-433
+434
 00:23:37,320 --> 00:23:38,920
 ¿La mujer que estuvo aquí en la tarde?
 
-434
+435
 00:23:39,200 --> 00:23:40,200
 Sí.
 
-435
+436
 00:23:40,480 --> 00:23:41,880
 A lo mejor es un chisme.
 
-436
+437
 00:23:42,160 --> 00:23:42,640
 Sí.
 
-437
+438
 00:23:42,760 --> 00:23:45,460
 Tú misma tuviste que
 correrla porque no se quería ir.
 
-438
+439
 00:23:45,860 --> 00:23:47,020
 ¿Eso qué quiere decir?
 
-439
+440
 00:23:47,021 --> 00:23:49,000
 Que se siente con derechos.
 
-440
+441
 00:23:51,660 --> 00:23:55,280
 Bueno, el hombre es hombre, mi cielo,
 y si la esposa no quiere cumplirle...
 
-441
+442
 00:23:55,700 --> 00:23:57,120
 Esa no es ninguna justificación.
 
-442
+443
 00:23:57,960 --> 00:24:02,480
 Si de verdad me quisiera, como
 dice, no estaría pensando en otro.
 
-443
+444
 00:24:03,600 --> 00:24:07,780
 Además, estoy segura de
 que eran amantes desde antes.
 
-444
+445
 00:24:09,240 --> 00:24:12,760
 Oye, mi cielo, ¿y tú no lo quieres nadita?
 
-445
+446
 00:24:14,140 --> 00:24:16,080
 No, ni un pelito.
 
-446
+447
 00:24:17,920 --> 00:24:21,460
 Bueno, es que como te veo
 tan afligida... Ay, tú también, tía.
 
-447
+448
 00:24:21,560 --> 00:24:22,560
 Shh.
 
-448
+449
 00:24:24,240 --> 00:24:26,980
 Lo trajeron herido, lleno de sangre.
 
-449
+450
 00:24:27,260 --> 00:24:28,740
 No soy de piedra, tía.
 
-450
-00:24:51,810 --> 00:24:52,810
+451
+00:24:45,923 --> 00:24:47,190
+¿Tiene calentura?
+
+452
+00:24:50,527 --> 00:24:51,820
+A dice que no.
+
+453
+00:24:51,910 --> 00:24:52,910
 Ay, qué bueno.
 
-451
+454
 00:24:53,730 --> 00:24:55,650
 Mi cielo, estoy muy cansada.
 
-452
+455
 00:24:56,430 --> 00:24:59,510
 No sabes cómo me duelen
 la rabadía y el cogote.
 
-453
+456
 00:25:00,910 --> 00:25:03,410
 Es que el viaje ha sido
 demoledor para mis huesos.
 
-454
+457
 00:25:03,570 --> 00:25:05,430
 Ay, tienes razón, perdóname.
 
-455
+458
 00:25:05,590 --> 00:25:07,310
 Con todo esto se me había olvidado.
 
-456
+459
 00:25:07,311 --> 00:25:09,390
 Ni siquiera probaste bocado en todo el día.
 
-457
+460
 00:25:09,730 --> 00:25:13,810
 No es que no tenga mucha hambrita,
 pero prefiero descansar un ratito.
 
-458
+461
 00:25:14,210 --> 00:25:15,250
 Sí, por supuesto.
 
-459
+462
 00:25:15,590 --> 00:25:19,050
 Le voy a decir a Rosario que suba a cuidar
 a Manuel mientras te llevo a tu cuarto.
 
-460
+463
 00:25:19,450 --> 00:25:20,450
 Anda.
 
-461
+464
 00:25:20,990 --> 00:25:24,050
 Voy a pedir que te preparen una
 charola con algo para merendar.
 
-462
+465
 00:25:24,250 --> 00:25:25,030
 Sí, hijita.
 
-463
+466
 00:25:25,031 --> 00:25:26,450
 No se te olvide el chocolatito.
 
-464
+467
 00:25:31,650 --> 00:25:33,550
 Y cuando el licenciado ese...
 
-465
+468
 00:25:34,120 --> 00:25:35,120
 ¿Cómo se llama?
 
-466
+469
 00:25:35,610 --> 00:25:36,450
 Remigio Quintero.
 
-467
+470
 00:25:36,470 --> 00:25:36,770
 Ah, ese.
 
-468
+471
 00:25:37,290 --> 00:25:38,290
 Cuando salió de la casa,
 
-469
+472
 00:25:38,930 --> 00:25:41,470
 que se va derechito con el
 benigno y que empieza a regañarlo.
 
-470
+473
 00:25:41,670 --> 00:25:43,290
 No escuché lo que decían, pero...
 
-471
+474
 00:25:44,015 --> 00:25:45,015
 pero tenía todo el modo.
 
-472
+475
 00:25:45,890 --> 00:25:49,710
 Y el benigno se veía bastante achicopalao.
 
-473
+476
 00:25:51,170 --> 00:25:52,250
 Para mí,
 
-474
+477
 00:25:53,150 --> 00:25:55,690
 que entre esos dos
 hay algo bien chueco.
 
-475
+478
 00:25:56,540 --> 00:25:57,540
 Déjame...
 
-476
+479
 00:25:57,950 --> 00:26:01,730
 tratar de recordar cómo
 sucedieron las cosas.
 
-477
+480
 00:26:02,790 --> 00:26:07,230
 Puentes Guerras adelantó
 a cenazar y acusaron
 
-478
+481
 00:26:07,231 --> 00:26:10,430
 unas palabras en eso
 sonó el primer balazo.
 
-479
+482
 00:26:11,030 --> 00:26:13,830
 Fuentes Guerras recibió el
 impacto y se desplomó del caballo.
 
-480
+483
 00:26:14,750 --> 00:26:18,090
 Enseguida hubo otro balazo,
 pero esta vez dirigido hacia Nazario.
 
-481
+484
 00:26:18,270 --> 00:26:20,230
 Si hubieran querido
 rematar a Fuentes Guerras,
 
-482
+485
 00:26:20,290 --> 00:26:23,350
 habrían disparado hacia el suelo
 donde estaba tirado, pero no fue así.
 
-483
+486
 00:26:23,970 --> 00:26:27,090
 Déjame decirte que uno de los dos
 matones tenía bastante buena puntería.
 
-484
+487
 00:26:28,410 --> 00:26:31,870
 ¿Crees entonces que el que se
 querían echar era Nazario? Puede ser.
 
-485
+488
 00:26:33,670 --> 00:26:34,350
 
 
-486
+489
 00:26:34,670 --> 00:26:35,670
 ¿Pero por qué? No tengo idea.
 
-487
+490
 00:26:37,230 --> 00:26:38,230
 
 
-488
+491
 00:26:40,050 --> 00:26:41,370
 A lo mejor,
 
-489
+492
 00:26:42,510 --> 00:26:44,210
 con tantita suerte,
 
-490
+493
 00:26:45,810 --> 00:26:47,790
 en unos días nos vamos a dormir.
 
-491
+494
 00:26:49,090 --> 00:26:51,950
 Te esperas un
 tiempecito y luego,
 
-492
+495
 00:26:52,090 --> 00:26:53,710
 te casas con la viuda.
 
-493
+496
 00:26:54,700 --> 00:26:57,110
 A pesar de todo, no le deseó
 la muerte a Fuentes Guerra.
 
-494
+497
 00:26:59,570 --> 00:27:01,670
 De habernos conocido
 en otras circunstancias,
 
-495
+498
 00:27:01,671 --> 00:27:03,431
 puede que nos hubiéramos
 hecho hasta amigos.
 
-496
+499
 00:27:04,210 --> 00:27:05,210
 ¿Amigo?
 
-497
+500
 00:27:05,870 --> 00:27:07,110
 ¿Del que te quitó la novia?
 
-498
+501
 00:27:08,595 --> 00:27:09,995
 Tal vez no me la
 quitó él, Delfino, sino.
 
-499
+502
 00:27:10,810 --> 00:27:11,810
 ..
 
-500
+503
 00:27:14,730 --> 00:27:16,210
 la vida o...
 
-501
+504
 00:27:18,510 --> 00:27:19,510
 el destino.
 
-502
+505
 00:27:25,930 --> 00:27:27,870
 Aquí están las cartas de tu papá.
 
-503
+506
 00:27:30,970 --> 00:27:31,970
 Esta es para ti.
 
-504
+507
 00:27:33,900 --> 00:27:35,250
 Y esta para tu esposo.
 
-505
+508
 00:27:37,405 --> 00:27:39,030
 Dios quiera que viva para leerla.
 
-506
+509
 00:27:39,810 --> 00:27:41,530
 Por favor, no digas eso.
 
-507
+510
 00:27:43,090 --> 00:27:46,630
 Bueno, si el señor decide
 llevárselo, será su voluntad.
 
-508
+511
 00:27:46,790 --> 00:27:48,410
 Pero yo no quiero que se muera, tía.
 
-509
+512
+00:27:51,700 --> 00:27:52,653
+Mati
+(Matilde)
+
+513
 00:27:55,390 --> 00:27:57,950
 Creo que tú también
 deberías descansar un ratito.
 
-510
+514
 00:28:00,670 --> 00:28:01,670
 Anda.
 
-511
+515
 00:28:02,050 --> 00:28:03,050
 Vete a dormir.
 
-512
+516
 00:28:03,610 --> 00:28:04,610
 Sí.
 
-513
+517
 00:28:05,050 --> 00:28:06,130
 Buenas noches, tía.
 
-514
+518
 00:28:10,700 --> 00:28:11,700
 ¿Y de aquel?
 
-515
+519
 00:28:12,820 --> 00:28:14,200
 ¿Has vuelto a saber algo?
 
-516
+520
 00:28:16,120 --> 00:28:17,280
 ¿De Adolfo?
 
-517
+521
 00:28:17,380 --> 00:28:18,380
 No.
 
-518
+522
 00:28:18,880 --> 00:28:19,880
 ¿Matilde?
 
-519
+523
 00:28:20,400 --> 00:28:21,860
 ¿No me estarás mintiendo?
 
-520
+524
 00:28:22,000 --> 00:28:23,280
 No estoy mintiendo, tía.
 
-521
+525
 00:28:23,480 --> 00:28:24,880
 Ya te dije que no.
 
-522
+526
 00:28:56,940 --> 00:28:57,940
 ¿Cómo está?
 
-523
+527
 00:28:58,160 --> 00:28:59,160
 Ay.
 
-524
+528
 00:28:59,440 --> 00:29:01,000
 Ya le empezó la calentura.
 
-525
+529
 00:29:03,340 --> 00:29:04,420
 No me diga.
 
-526
+530
 00:29:04,760 --> 00:29:05,760
 ¿Qué hacemos?
 
-527
+531
 00:29:07,680 --> 00:29:08,840
 Tratar de enfriarlo.
 
-528
+532
 00:29:08,900 --> 00:29:09,340
 ¿Pero qué haces?
 
-529
+533
 00:29:09,341 --> 00:29:10,020
 Voy a pedirle esta bosta tibia.
 
-530
+534
 00:29:10,360 --> 00:29:12,220
 Y voy a pedir que saquen del pozo.
 
-531
+535
 00:29:12,720 --> 00:29:13,720
 Sí.
 
-532
+536
 00:29:54,060 --> 00:29:56,160
 Bendito sea Dios que llegue a ustedes.
 
-533
+537
 00:29:56,520 --> 00:29:57,880
 ¿Por qué no me avisaron enseguida?
 
-534
+538
 00:29:59,730 --> 00:30:01,600
 Ha helado toda la noche, pobrecita.
 
-535
+539
 00:30:02,240 --> 00:30:03,240
 ¿Cómo está?
 
-536
+540
 00:30:04,520 --> 00:30:06,460
 Ay, la lluvia empezó la calentura.
 
-537
+541
 00:30:09,320 --> 00:30:11,280
 Padre, estoy tan asustada.
 
-538
+542
 00:30:11,580 --> 00:30:12,580
 ¿Quién fue? No se sabe.
 
-539
+543
 00:30:12,730 --> 00:30:13,840
 
 
-540
+544
 00:30:14,540 --> 00:30:15,080
 ¿Quién fue?
 
-541
+545
 00:30:15,081 --> 00:30:15,520
 ¿Quién fue?
 
-542
+546
 00:30:15,521 --> 00:30:17,521
 Y menos mal que iba con
 él el nuevo administrador.
 
-543
+547
 00:30:18,660 --> 00:30:19,200
 Menos mal.
 
-544
+548
 00:30:19,240 --> 00:30:20,240
 ¿Por qué?
 
-545
+549
 00:30:22,480 --> 00:30:26,720
 Porque parece que él fue el que les echó de
 balazos a los asaltantes y los hizo huir.
 
-546
+550
 00:30:27,720 --> 00:30:31,800
 Luego buscó a los demás peones y
 armaron una camilla y los dejaron por acá.
 
-547
+551
 00:30:32,810 --> 00:30:34,290
 ¿Quieres decir que les
 salvó la vida? Sí, padre.
 
-548
+552
 00:30:35,660 --> 00:30:36,660
 
 
-549
+553
 00:30:39,280 --> 00:30:40,540
 ¿Manuel no ha reaccionado?
 
-550
+554
 00:30:40,940 --> 00:30:41,940
 Sí.
 
-551
+555
 00:30:43,240 --> 00:30:44,500
 No más dos veces.
 
-552
+556
 00:30:44,660 --> 00:30:45,060
 No.
 
-553
+557
 00:30:45,080 --> 00:30:47,520
 Pero sin ninguna conciencia, padre.
 
-554
+558
 00:30:49,380 --> 00:30:51,300
 ¿Dijiste al administrador
 que quiero ver con él?
 
-555
+559
 00:30:52,880 --> 00:30:54,340
 Padre, ¿pero cómo cree?
 
-556
+560
 00:30:54,640 --> 00:30:57,600
 Si luego lo hago yo así, mi hijo,
 en estas condiciones, ¿cómo?
 
-557
+561
 00:30:59,240 --> 00:31:03,340
 Bueno, dile a Matilde que a las
 diez celebraré la misa de difuntos
 
-558
+562
 00:31:03,800 --> 00:31:05,700
 por el alma del pobre de Nazario.
 
-559
+563
 00:31:06,400 --> 00:31:09,080
 Y sería bueno que en
 representación de su marido fuera ella.
 
-560
+564
 00:31:11,600 --> 00:31:12,600
 Sí, padre.
 
-561
+565
 00:31:13,120 --> 00:31:14,120
 Yo le digo.
 
-562
+566
 00:31:15,080 --> 00:31:16,780
 Te entiendo tu dolor, Rosario.
 
-563
+567
 00:31:18,000 --> 00:31:21,240
 Porque yo también estoy consternado
 porque sabes cuánto lo quiero.
 
-564
+568
 00:31:22,860 --> 00:31:25,600
 Pero hay que depositar
 nuestra esperanza en el Señor.
 
-565
+569
 00:31:26,500 --> 00:31:28,480
 Y rezar mucho para que no se lo oye.
 
-566
+570
 00:31:30,920 --> 00:31:31,920
 Padre.
 
-567
+571
 00:31:32,620 --> 00:31:33,740
 Ay, padrecito.
 
-568
+572
 00:31:35,360 --> 00:31:36,980
 No, no, no, no.
 
-569
+573
 00:32:04,220 --> 00:32:06,840
 No, no, no.
 
-570
+574
 00:32:11,510 --> 00:32:13,510
 Esa mujer debe ser la madre de Rosario.
 
-571
+575
 00:32:13,810 --> 00:32:14,930
 Sí, sí, es...
 
-572
+576
 00:32:15,590 --> 00:32:16,890
 Pobre, nomás tenía uno.
 
-573
+577
 00:32:18,010 --> 00:32:19,010
 ¿Cómo lo sabes?
 
-574
+578
 00:32:19,550 --> 00:32:21,090
 Hace rato fui a darle el pesar.
 
-575
+579
 00:32:46,400 --> 00:32:49,000
 Anda, mi cielo, ya están llamando a misa.
 
-576
+580
 00:32:49,260 --> 00:32:50,560
 Sí, pero...
 
-577
+581
 00:32:51,540 --> 00:32:53,540
 Ay, tía, ¿y si pasa algo?
 
-578
+582
 00:32:53,740 --> 00:32:54,740
 ¿Qué va a pasar?
 
-579
+583
 00:32:55,200 --> 00:32:57,120
 Además, aquí estamos
 Rosario y yo al pendiente.
 
-580
+584
 00:32:58,080 --> 00:32:59,080
 Ay.
 
-581
+585
 00:32:59,380 --> 00:33:03,000
 Si el doctor no llega pronto a cambiarle
 el vendaje, ¿tú lo haces, tía? Sí, mi vida.
 
-582
+586
 00:33:03,140 --> 00:33:04,180
 No te apures.
 
-583
+587
 00:33:04,181 --> 00:33:04,780
 Ándale.
 
-584
+588
 00:33:04,940 --> 00:33:05,940
 
 
-585
+589
 00:33:07,820 --> 00:33:08,960
 Bueno, bueno, está bien.
 
-586
+590
 00:33:08,980 --> 00:33:09,600
 No me lo gasto.
 
-587
+591
 00:33:09,620 --> 00:33:10,620
 Ándale.
 
-588
+592
 00:33:11,020 --> 00:33:11,460
 Ándale.
 
-589
+593
 00:33:11,940 --> 00:33:12,940
 Ya voy.
 
-590
+594
 00:33:18,700 --> 00:33:20,140
 ¿Quién entiende a esta niña?
 
-591
+595
 00:33:22,400 --> 00:33:24,880
 La niña es muy buena y
 el patrón la quiere mucho.
 
-592
+596
 00:33:25,120 --> 00:33:26,120
 Ah, sí.
 
-593
+597
 00:33:26,460 --> 00:33:28,541
 Pues nunca he entendido
 el cariño de los hombres.
 
-594
+598
 00:33:28,700 --> 00:33:30,220
 Te quiero, pero te pongo el cuerno.
 
-595
+599
 00:33:30,900 --> 00:33:32,360
 Pero el señor Manuel no es así.
 
-596
+600
 00:33:32,540 --> 00:33:33,540
 Ah, ¿cómo no?
 
-597
+601
 00:33:33,900 --> 00:33:35,760
 Tú misma lo viste
 besándose con la Antonia.
 
-598
+602
 00:33:36,220 --> 00:33:36,660
 ¿Yo? No es cierto.
 
-599
+603
 00:33:36,920 --> 00:33:37,920
 
 
-600
+604
 00:33:39,100 --> 00:33:40,140
 Matilde me lo dijo.
 
-601
+605
 00:33:40,840 --> 00:33:43,021
 No, señora, yo
 nunca... Lo juro que...
 
-602
+606
 00:33:45,180 --> 00:33:47,940
 ¿Los viste o no los
 viste? No me acuerdo.
 
-603
+607
 00:33:50,000 --> 00:33:51,000
 
 
-604
+608
 00:33:56,440 --> 00:33:57,520
 Virgen Santísima,
 
-605
+609
 00:33:59,220 --> 00:34:00,500
 Reina Inmaculada,
 
-606
+610
 00:34:01,860 --> 00:34:02,900
 Madre de Dios,
 
-607
+611
 00:34:05,120 --> 00:34:06,400
 Dios Todopoderoso,
 
-608
+612
 00:34:08,060 --> 00:34:09,420
 Reina y Madre,
 
-609
+613
 00:34:11,120 --> 00:34:12,220
 Reina y Madre de la Tierra.
 
-610
+614
 00:34:12,580 --> 00:34:16,100
 Hay que poner estas tiras a
 hervir porque pueden hacer falta.
 
-611
+615
 00:34:16,260 --> 00:34:16,780
 Sí, señora.
 
-612
+616
 00:34:17,160 --> 00:34:18,160
 Vete por agua.
 
-613
+617
 00:34:19,840 --> 00:34:22,540
 No estaría de más tener
 listo un caldito de pollo.
 
-614
+618
 00:34:22,720 --> 00:34:23,720
 Claro que sí, señora.
 
-615
+619
 00:34:23,940 --> 00:34:24,960
 Pero yo te voy a
 decir cómo hacerlo.
 
-616
+620
 00:34:24,961 --> 00:34:25,460
 
 
-617
+621
 00:34:25,600 --> 00:34:26,180
 ¿Tienes apio?
 
-618
+622
 00:34:26,480 --> 00:34:27,480
 Sí.
 
-619
+623
 00:34:28,880 --> 00:34:29,880
 Bastante.
 
-620
+624
 00:34:31,240 --> 00:34:32,480
 Creo que nos vamos a entender.
 
-621
+625
 00:35:29,970 --> 00:35:30,970
 ¿Cómo sigue?
 
-622
+626
 00:35:32,830 --> 00:35:34,430
 La fiebre no se le quiere bajar.
 
-623
+627
 00:35:39,650 --> 00:35:41,850
 La señora Favisa, ¿usted no va?
 
-624
+628
 00:35:42,770 --> 00:35:44,630
 Yo lo único que me importa es él.
 
-625
+629
 00:35:45,310 --> 00:35:46,310
 Pues sí, la entiendo.
 
-626
+630
 00:35:46,850 --> 00:35:48,210
 Es bueno y guapo.
 
-627
+631
 00:35:48,750 --> 00:35:50,090
 Nada más que está casado.
 
-628
+632
 00:35:50,300 --> 00:35:52,250
 Sí, con una mujer que no lo quiere.
 
-629
+633
 00:35:53,290 --> 00:35:54,590
 Pero él sí la quiere a ella.
 
-630
+634
 00:35:55,250 --> 00:35:56,650
 Tú estás a su lado, ¿verdad?
 
-631
+635
 00:35:57,430 --> 00:35:58,630
 Yo no estoy de lado de nadie.
 
-632
+636
 00:36:00,610 --> 00:36:01,650
 He visto que...
 
-633
+637
 00:36:02,190 --> 00:36:05,290
 que doña Matilde te tiene
 confianza y seguro te platica cosas.
 
-634
+638
 00:36:06,250 --> 00:36:09,931
 Si me cuentas, ¿te puedo asignar tareas
 más livianas y pagarte más? Yo no sé nada.
 
-635
+639
 00:36:10,910 --> 00:36:11,910
 
 
-636
+640
 00:36:13,050 --> 00:36:14,890
 Eres una india arrastrada y mentirosa.
 
-637
+641
 00:36:15,070 --> 00:36:18,186
 Pero en cuanto esa
 alzada se vaya, voy a hacer
 
-638
+642
 00:36:18,210 --> 00:36:19,210
 no solo que te corran
 de aquí, sino del pueblo.
 
-639
+643
 00:36:24,530 --> 00:36:25,130
 Buenos días.
 
-640
+644
 00:36:25,330 --> 00:36:26,150
 Ay, qué bueno que vino.
 
-641
+645
 00:36:26,190 --> 00:36:27,350
 Doctor, tiene mucha fiebre.
 
-642
+646
 00:36:31,740 --> 00:36:32,740
 Matilde.
 
-643
+647
 00:36:33,980 --> 00:36:34,980
 Matilde.
 
-644
+648
 00:36:36,560 --> 00:36:39,520
 No sabemos dónde está,
 pero el doctor ya lo va a curar.
 
-645
+649
 00:36:54,270 --> 00:36:55,670
 La herida está supurando.
 
-646
+650
 00:36:58,310 --> 00:36:59,790
 ¿Es grave la infección?
 
-647
+651
 00:37:01,990 --> 00:37:02,990
 Esperemos que no.
 
-648
+652
 00:37:39,670 --> 00:37:40,670
 Señora.
 
-649
+653
 00:37:44,550 --> 00:37:46,770
 ¿No te das cuenta de que me comprometes?
 
-650
+654
 00:37:47,350 --> 00:37:48,470
 No era mi intención.
 
-651
+655
 00:37:50,290 --> 00:37:50,770
 Perdóname.
 
-652
+656
 00:37:51,050 --> 00:37:53,210
 Lo que pasa es que Damiana nos vio hablando
 
-653
+657
 00:37:53,211 --> 00:37:55,570
 y tengo mucho miedo de que
 alguien empiece a sospechar.
 
-654
+658
 00:37:55,571 --> 00:37:56,150
 No tiene por qué.
 
-655
+659
 00:37:56,151 --> 00:37:56,270
 ¿Por qué?
 
-656
+660
 00:37:56,670 --> 00:37:59,671
 A nadie le va a extrañar que hables
 con el administrador de tu marido.
 
-657
+661
 00:38:02,290 --> 00:38:04,971
 Creo que Benigno tuvo que ver
 con lo que pasó en La Cañada.
 
-658
+662
+00:38:05,883 --> 00:38:07,390
+¿El capitaz?
+
+663
+00:38:07,750 --> 00:38:08,563
+Aye.
+
+664
 00:38:09,500 --> 00:38:12,940
 Estoy casi seguro que uno de los
 dos hombres que nos dispararon era él.
 
-659
+665
 00:38:14,340 --> 00:38:15,340
 ¿Pero por qué?
 
-660
+666
 00:38:16,100 --> 00:38:17,640
-¿Qué interés puede tener? No sé.
+¿Qué interés puede tener?
 
-661
+667
 00:38:17,980 --> 00:38:18,980
+No sé.
+
+668
+00:38:19,180 --> 00:38:20,180
 Tal vez.
 
-662
-00:38:19,180 --> 00:38:20,180
-..
-
-663
-00:38:21,240 --> 00:38:22,840
+669
+00:38:21,240 --> 00:38:24,440
 no querían matar a tu
 marido, sino a Nazario.
 
-664
-00:38:22,841 --> 00:38:23,841
-
-
-665
+670
 00:38:27,260 --> 00:38:28,820
 Esa muchacha, Antonia,
 
-666
+671
 00:38:29,110 --> 00:38:30,500
-me parece bastante alegre.
+me parece bastante insana.
 
-667
+672
 00:38:31,200 --> 00:38:33,440
 Bueno, es una señorita instruida.
 
-668
+673
 00:38:33,500 --> 00:38:35,780
 El administrador de antes era su papá.
 
-669
+674
 00:38:37,210 --> 00:38:39,540
 ¿No será que está enamorada
 del marido de mi sobrina?
 
-670
+675
 00:38:40,400 --> 00:38:41,640
 No sabría decirle, doña.
 
-671
+676
 00:38:41,780 --> 00:38:42,780
 Ándele, ándele.
 
-672
+677
 00:38:43,580 --> 00:38:46,320
 Que usted y yo somos viejas
 y ya conocemos el dicho.
 
-673
+678
 00:38:47,110 --> 00:38:49,200
 Más sabe el diablo
 por viejo que por diablo.
 
-674
+679
 00:38:50,760 --> 00:38:51,760
 No se apure,
 
-675
+680
 00:38:52,240 --> 00:38:53,700
 que no se lo voy a contar a nadie.
 
-676
+681
 00:38:55,710 --> 00:38:57,060
 Pues, ¿qué le puedo decir, doña?
 
-677
+682
 00:38:57,960 --> 00:39:00,641
 Parece que la señora y
 el patrón no se entienden.
 
-678
+683
 00:39:00,980 --> 00:39:02,660
 Y la señorita Antonia,
 
-679
+684
 00:39:02,780 --> 00:39:04,140
 pues, pues sí,
 
-680
+685
 00:39:04,320 --> 00:39:07,160
 como que está enamorada del patrón.
 
-681
+686
 00:39:08,340 --> 00:39:09,340
 ¿Es su querida?
 
-682
+687
 00:39:10,380 --> 00:39:13,940
 Pues yo creo que ganas de
 parte de ella seguro que las hay.
 
-683
+688
 00:39:14,660 --> 00:39:15,700
 Pero imagínate que no.
 
-684
+689
 00:39:16,340 --> 00:39:17,980
 Por lo menos yo nunca he visto nada.
 
-685
+690
 00:39:23,080 --> 00:39:26,676
 De todos modos, no permitas que Benigno
 ni nadie extraño se acerque a Manuel.
 
-686
+691
 00:39:26,700 --> 00:39:27,060
 ¿Por qué?
 
-687
+692
 00:39:27,395 --> 00:39:30,240
 Porque si alguien quiere
 matarlo, puede aprovecharse
 
-688
+693
 00:39:30,241 --> 00:39:31,241
 de su estado de salud
 para acabar con él.
 
-689
+694
 00:39:32,140 --> 00:39:34,000
 Entonces, ¿tú quieres que se salve?
 
-690
+695
 00:39:34,985 --> 00:39:38,041
 Tal parece que en estos meses de
 separación has olvidado cómo soy.
 
-691
+696
 00:39:38,760 --> 00:39:39,760
 No, no es eso.
 
-692
+697
 00:39:40,140 --> 00:39:42,740
 Lo que pasa es que pensé que lo odiabas.
 
-693
+698
 00:39:43,720 --> 00:39:47,940
 Lo que odio de Fuentes Guerra es que
 de alguna manera por su culpa te perdí.
 
-694
+699
 00:39:48,700 --> 00:39:52,160
 Allí afuera pienso que es un hombre
 como cualquier otro, ni bueno ni malo.
 
-695
+700
 00:39:54,500 --> 00:39:56,680
 Y jamás yo he deseado la muerte de nadie.
 
-696
+701
 00:39:58,700 --> 00:40:00,981
 Pero independientemente de
 eso no he cambiado de parecer.
 
-697
+702
 00:40:01,320 --> 00:40:02,880
 No, tú y yo nos queremos, Matilde.
 
-698
+703
 00:40:03,020 --> 00:40:05,881
 La ambición de tu madre y las
 intrigas de quien sea nos han separado.
 
-699
+704
 00:40:06,060 --> 00:40:07,600
 Pero no voy a rendirme, Matilde.
 
-700
+705
 00:40:09,900 --> 00:40:14,121
 Aún en contra de tu voluntad te voy
 a llevar conmigo porque es lo justo.
 
-701
+706
 00:40:15,160 --> 00:40:16,680
-Es que no tomas
-en cuenta que ya no.
+Es que no tomas en cuenta.
 
-702
+707
 00:40:16,681 --> 00:40:17,900
-..
+**que ya no.**
 
-703
+708
 00:40:18,720 --> 00:40:20,000
 ¡Has perdido el juicio!
 
-704
+709
 00:40:20,860 --> 00:40:22,660
 ¿Cómo permites que este hombre sea aquí?
-
-705
-00:40:25,220 --> 00:40:26,220
-¡No!
-
-706
-00:40:33,220 --> 00:40:34,220
-¡No!
-
-707
-00:40:35,160 --> 00:40:35,660
-¡No!
-
-708
-00:40:35,680 --> 00:40:42,660
-No, no, no, no, no, no.
 
