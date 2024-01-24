@@ -1,3 +1,6 @@
+2024-01-24
+Updated Cap.18. I corrected some mistakes, but there were some mistakes I know were missed. I encapsulated uncertain subtitles in double stars **uncertain subttiles**.
+
 2024-01-21
 Updated Cap.17. I am not sure about the accuracy of captions at 19m52s and 19m57s.
 
